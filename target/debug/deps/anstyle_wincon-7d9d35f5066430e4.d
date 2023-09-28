@@ -1,0 +1,11 @@
+C:\Users\prita\Documents\RUST\rust-lang\target\debug\deps\anstyle_wincon-7d9d35f5066430e4.rmeta: C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs
+
+C:\Users\prita\Documents\RUST\rust-lang\target\debug\deps\libanstyle_wincon-7d9d35f5066430e4.rlib: C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs
+
+C:\Users\prita\Documents\RUST\rust-lang\target\debug\deps\anstyle_wincon-7d9d35f5066430e4.d: C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs
+
+C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lib.rs:
+C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\console.rs:
+C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\lockable.rs:
+C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\stream.rs:
+C:\Users\prita\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-2.1.0\src\windows.rs:
